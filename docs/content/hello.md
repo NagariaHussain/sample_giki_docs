@@ -1,7 +1,7 @@
 # Title
 
 ```py
-Hello World!
+print("Hello World!")
 ```
 
 This is some markdown file

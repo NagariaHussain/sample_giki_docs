@@ -1,0 +1,3 @@
+spaces:
+  - path: docs
+    base_route: /awesome-app
